@@ -6,7 +6,7 @@ namespace AdventOfCode2022
 	{
 		static void Main(string[] args)
 		{
-			Day2.Part2.Run();
+			Day3.Part2.Run();
 		}
 	}
 }
